@@ -1,0 +1,89 @@
+body {
+  background-image:url("back.jpg");
+  background-position: bottom;
+  font-size: 22px;
+  font-family: monospace;
+ 
+}
+header{
+  color: aquamarine;
+}
+h1 {
+  
+  color: aqua;
+  font-family: monospace;
+  font-style: italic;
+}
+
+h3{
+  lighting-color: lightblue;
+}
+h4{
+  color: rgb(247, 247, 247);
+  text-align: left;
+  font-style: italic;
+  text-align: left;
+}
+h5{
+color: pink;
+}
+p{
+  color: rgb(222, 223, 185);
+font-size: 2mm;
+font-family: 'Bilbo Swash Caps';
+font-style: italic;
+}
+p.a{
+  color: powderblue;
+  font-size: .6cm;
+}
+
+ul{
+  color: rgb(247, 247, 247);
+  font-family: verdana;
+  font-size: 20px;
+}
+.checked {
+  color:yellow;
+}
+
+aside.a {
+  float:centre ;
+  font-style: italic;
+  background-color: rgba(27, 137, 180, 0.034);
+}
+aside.b{
+ box-sizing: content-box;
+ margin-left:550px;
+  font-style: italic;
+  background-color: lightblue;
+  
+}
+table{  
+  color: rgb(247, 247, 247);
+  border-collapse: collapse;
+  border: 2px solid  lightblue;
+  background-color:  rgb(40, 118, 145);
+}
+
+caption{
+  font-style: italic;
+  color: rgb(229, 170, 247);
+ }
+.position{
+  margin-left: -100px;
+position:absolute;
+left:30%;
+transform: (-50%,0);
+}
+
+img-position{
+  position:absolute;
+}
+i{
+  background-color: lightblue;
+}
+nav{
+background-color: lightblue;
+
+}
